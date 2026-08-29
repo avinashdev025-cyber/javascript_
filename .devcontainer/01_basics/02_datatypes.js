@@ -1,0 +1,8 @@
+//number
+//bigint
+//string
+// boolean
+//null
+//undefined
+// symbol
+//object
